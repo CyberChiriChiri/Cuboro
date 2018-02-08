@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuboro", "Cuboro.csproj", "{9F73966B-0F70-90AE-BEB3-BE6E644D14C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuboro.Editor", "Cuboro.Editor.csproj", "{D0FB94A9-43F1-A483-411C-1E2C0BA65742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F73966B-0F70-90AE-BEB3-BE6E644D14C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F73966B-0F70-90AE-BEB3-BE6E644D14C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F73966B-0F70-90AE-BEB3-BE6E644D14C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F73966B-0F70-90AE-BEB3-BE6E644D14C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FB94A9-43F1-A483-411C-1E2C0BA65742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FB94A9-43F1-A483-411C-1E2C0BA65742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FB94A9-43F1-A483-411C-1E2C0BA65742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FB94A9-43F1-A483-411C-1E2C0BA65742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
